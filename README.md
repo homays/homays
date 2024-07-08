@@ -6,7 +6,7 @@
   <!-- dynamic typing effect 动态打字效果 --> 
   <div align="center">
     <a >
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22长风破浪会有时%22);雁门看雪&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=580&lines=println(%22长风破浪会有时，直挂云帆济沧海%22);雁门看雪&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -31,6 +31,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=homays&count_private=true&show_icons=true&hide_border=true"  width="60%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homays&langs_count=10&exclude_repo=timerring.github.io&count_private=true&layout=compact&hide_border=true" width="36%" />
-   <img src="https://raw.githubusercontent.com/homays/homays/main/assets/github-contribution-grid-snake.svg" />
+   <img src="https://github.com/homays/homays/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
