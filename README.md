@@ -1,20 +1,3 @@
-## 👋 Hi there, I'm Arrebol.
-
-
-<div align="center">
-
-  <!-- dynamic typing effect 动态打字效果 --> 
-  <div align="center">
-    <a >
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=580&lines=println(%22长风破浪会有时，直挂云帆济沧海%22);雁门看雪&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-
-<br/>
-
-<p><b>The answer explains all, hard work is the best answer.</b></p>
-
-</div>
 <!--
 <h2 > <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage"> About me</h2>
  <div> 
